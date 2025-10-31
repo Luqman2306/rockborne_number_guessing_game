@@ -1,4 +1,4 @@
-Number Guessing Game (Python) – README
+Number Guessing Game (Python)
 
 
 
